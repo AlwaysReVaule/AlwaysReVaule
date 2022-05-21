@@ -5,8 +5,8 @@
 
   ❤️💗🧡💚💛💙💜 
   
-📝 [some stuff,once i met]（）
+📝 [some stuff,once i met]()
 
-💌 [some thoughts in my brain]（）
+💌 [some thoughts in my brain]()
 
 💻 [some of my works]()
